@@ -1,0 +1,8 @@
+-home (anasayfa) 
+-project (Proje)
+- partners (ortaklar)
+- activities
+- project results ( çıktılar)
+- news
+-blog/forum
+- cede e-learning platform
